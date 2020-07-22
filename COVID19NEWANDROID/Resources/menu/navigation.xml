@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+  <item
+        android:orderInCategory="0"
+        android:enabled="true"
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/news_light"
+        android:title="@string/title_news" 
+        app:showAsAction="always" />
+
+
+  <item
+      android:orderInCategory="1"
+      android:enabled="true"
+      android:id="@+id/navigation_covid19"
+      android:icon="@drawable/virus_light"
+      android:title="@string/title_covid19"
+      app:showAsAction="always"/>
+
+  <item
+    android:orderInCategory="2"
+    android:enabled="true"
+    android:id="@+id/navigation_vedekezes"
+    android:icon="@drawable/vedekezes_light"
+    android:title="@string/title_vedekezes"
+    app:showAsAction="always"/>
+
+  <item
+  android:orderInCategory="3"
+  android:enabled="true"
+  android:id="@+id/navigation_beallitasok"
+  android:icon="@drawable/beallitasok_light"
+  android:title="@string/title_beallitasok"
+  app:showAsAction="always"/>
+
+</menu>

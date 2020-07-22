@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Covid19NewsAndroid</string>
+    <string name="title_news">Hírek</string>
+    <string name="title_covid19">Statisztika</string>
+  <string name="title_vedekezes">Vedekezés</string>
+  <string name="title_deaths">Halottak</string>
+  <string name="title_aktiv">Aktív esetek</string>
+  <string name="title_felepultek">Felépültek</string>
+  <string name="glb_zaszlo">Globális</string>
+  <string name="Orsz_Magyar">Magyarország</string>
+  <string name="zaszlo_HUN">zaszlo_HUN</string>
+  <string name="Vedekezes_cim">Védekezés</string>
+  <string name="title_beallitasok">Beállítások</string>
+  <string name="Be">Be</string>
+  <string name="Ki">Ki</string>
+  <string name="dark_mode">Dark mode </string>
+</resources>
